@@ -1,7 +1,7 @@
 # BarberOS — Sistema de gestión para barbería con tienda
 
 **Actividad #3: Clean Architecture aplicada a tu proyecto**
-Materia: Frameworks y Arquitectura de · Profesor: Zabaleta Duran Adrián Rene
+Materia: Frameworks y Arquitectura de · Profesor: Zavaleta Duran Adrián Rene
 Equipo: Pozas Gomez Fernando, expediente 333414. Juan Pablo Bolaños Rivera, expediente 326570. Julio Alberto Tecuapacho Velázquez, expediente 333364.
 
 ```bash
