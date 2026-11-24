@@ -2,7 +2,7 @@
 
 **Actividad #3: Clean Architecture aplicada a tu proyecto**
 Materia: Frameworks y Arquitectura de · Profesor: Zabaleta Duran Adrián Rene
-Equipo: Pozas Gomez Fernando, expediente 333414. Juan Pablo Bolaños Rivera, expediente 326570. Julio Alberto Tecuapacho Velázquez, expediente 333364.
+Equipo: Pozas Gomez Fernando, expediente 333414. Juan Pablo Bolaños Rivera, expediente 326570. julio Alberto Tecuapacho Velázquez, expediente 333364.
 
 ```bash
 npm test          # 13 pruebas: el mismo caso de uso con el adapter en memoria y con el de archivo JSON
